@@ -41,6 +41,8 @@
   --background-image-auth-light: url("/images/auth-light.png");
 
   --breakpoint-xs: 420px;
+
+  --font-space-grotesk: var(--font-space-grotesk);
 }
 
 @layer base {
